@@ -1,4 +1,29 @@
-# Decouple and Recouple
+# Decouple and Recouple# 🛣️ Roadmap - UbuntuCode
+
+Este roadmap mostra os próximos passos do projeto e sua evolução prevista.
+
+## Fase 1 - Fundação
+- Criar estrutura inicial do repositório ✅
+- Elaborar README e White Paper ✅
+- Definir código de conduta e guia de contribuição ✅
+
+## Fase 2 - Protótipo
+- Construir protótipo da ferramenta no GitHub
+- Testar com comunidades africanas e diáspora
+- Receber feedback e ajustar funcionalidades
+
+## Fase 3 - Expansão
+- Publicar o white paper no Zenodo/arXiv
+- Engajar universidades e centros de pesquisa
+- Criar rede de embaixadores UbuntuCode
+
+## Fase 4 - Globalização
+- Escalar a comunidade para todos os continentes
+- Participar de conferências de open science
+- Lançar versão estável com automações
+
+---
+
 
 This repository contains the software implementation for our paper __A Novel Approach to Higgs Coupling Measurements__ (Cranmer, Kreiss, Lopez-Val, Plehn), [arXiv:1401.0080 \[hep-ph\]](http://arxiv.org/abs/1401.0080). It contains tools to apply the discussed methods to new models and contains a Makefile to recreate the plots in the paper.
 
