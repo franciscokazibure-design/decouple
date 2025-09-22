@@ -22,7 +22,8 @@ Este roadmap mostra os próximos passos do projeto e sua evolução prevista.
 - Participar de conferências de open science
 - Lançar versão estável com automações
 
----
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.123456.svg)](https://doi.org/10.5281/zenodo.123456)
+
 
 
 This repository contains the software implementation for our paper __A Novel Approach to Higgs Coupling Measurements__ (Cranmer, Kreiss, Lopez-Val, Plehn), [arXiv:1401.0080 \[hep-ph\]](http://arxiv.org/abs/1401.0080). It contains tools to apply the discussed methods to new models and contains a Makefile to recreate the plots in the paper.
@@ -92,3 +93,23 @@ Copyright 2013-2014 Sven Kreiss, Kyle Cranmer
 
 `decouple` is free software made available under the MIT License. For details see
 the [LICENSE](LICENSE) file.
+
+Your release has been archived on Zenodo!
+DOI: 10.5281/zenodo.123456
+[ Copy DOI Badge ]
+Your release has been archived on Zenodo!
+DOI: 10.5281/zenodo.123456
+[ Copy DOI Badge ]
+[ Sign in with GitHub ] [ Sign in with ORCID ] [ Sign in with Email ]
+[ ] Zenodo would like to access your repositories
+[ Authorize Zenodo ]
+UbuntuCode   [ Enable ]
+OutroRepo    [ Enable ]
+UbuntuCode   [ Enable ]
+OutroRepo    [ Enable ]
+Tag version: v0.1.0
+Release title: UbuntuCode Alpha
+[ Publish Release ]
+Your release has been archived on Zenodo!
+DOI: 10.5281/zenodo.123456
+[ Copy DOI Badge ]
